@@ -2,6 +2,6 @@
 
 cryptozombies is an online tutorial for learning Solidity.
 
-stopped at lesson 5 chapter 3
+finished lesson 5
 
 All rights on the code has https://cryptozombies.io
